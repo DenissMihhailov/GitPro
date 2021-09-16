@@ -33,7 +33,9 @@ public class GitPro {
         *8. скопировать git remote add origin... и вставить в гит баш
         *9. git push origin master *Репозиторий готов и направлен в гитхаб*
         */
-        
+        System.out.println("Третья версия проекта");
+        System.out.println("Четвертая версия проекта");
+
     }
   
     
