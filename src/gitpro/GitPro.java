@@ -36,6 +36,7 @@ public class GitPro {
         System.out.println("Третья версия проекта");
         System.out.println("Четвертая версия проекта");
         System.out.println("Пятая версия проекта");
+        System.out.println("Шестая версия проекта");
         
 
     }
